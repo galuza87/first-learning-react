@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -9,8 +9,10 @@ function App() {
         <p>
           andrew <code>src/App.js</code> and save to reload.
         </p>
-        <p> hi so lets start learning  </p>
-        <div><button id = 'increase'/></div>
+        <p> hi so lets start !ok this is wierd g </p>
+        <div>
+          <button id="increase" />
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
